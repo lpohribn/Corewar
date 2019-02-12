@@ -26,7 +26,7 @@ This project can be broken down into three distinctive parts:
 • The visualization: You write flag -v and it shows you beatiful visualization of the game.
 
 #  Usages
-screen_shot/Screen Shot 2019-02-12 at 3.08.24 PM.png
+![Alt Text](https://github.com/lpohribn/Corewar/blob/master/screenshots/Screen Shot 2019-02-12 at 3.08.24 PM.png)
 
 
 # Visualization
