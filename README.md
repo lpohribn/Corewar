@@ -27,7 +27,6 @@ This project can be broken down into three distinctive parts:
 
 #  Usages
 
-Screen Shot 2019-02-12 at 3.08.24 PM
 
 # Visualization
 
