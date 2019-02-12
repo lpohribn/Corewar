@@ -30,4 +30,5 @@ This project can be broken down into three distinctive parts:
 
 
 # Visualization
+![Alt Text](https://raw.githubusercontent.com/lpohribn/Corewar/master/screen_shot/Screen%20Shot%202019-02-12%20at%203.27.49%20PM.png)
 
